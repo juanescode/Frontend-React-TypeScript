@@ -7,7 +7,7 @@ En git
 https://github.com/juanescode/Frontend-React-TypeScript.git
 ```
 
-
+En la terminal 
 ```bash
 npm install
 npm run dev
